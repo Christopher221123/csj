@@ -135,13 +135,13 @@ Definición de la estructura organizativa y responsabilidades técnicas dentro d
 Acceso directo a la documentación generada en cada fase del proyecto. Haz clic en los enlaces para visualizar los archivos PDF correspondientes dentro del repositorio.
 
 ### 📅 Fase 1: Gestión y Planificación
-* [DOC-AGT-001 Contrato Marco](./docs/DOC-AGT-001.pdf)
-* [DOC-MAN-001 Guía de Uso del Dossier](./docs/DOC-MAN-001.pdf)
-* [DOC-PM-001 Plan de Proyecto](./docs/DOC-PM-001.pdf)
-* [DOC-RSK-001 Registro de Riesgos](./docs/DOC-RSK-001.pdf)
-* [DOC-CFG-001 Plan de Configuración](./docs/DOC-CFG-001.pdf)
-* [DOC-CMP-001 Matriz de Cumplimiento](./docs/DOC-CMP-001.pdf)
-
+* [DOC-MST-001 Manual de Gestión del Ciclo de Vida](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-MST-001%20Manual%20de%20Gestión%20del%20Ciclo%20de%20Vida%20de%20Software.pdf)
+* [DOC-AGT-001 Contrato Marco](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-AGT-001%20Contrato%20Marco.pdf)
+* [DOC-MAN-001 Guía de Uso](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-MAN-001%20Guia%20de%20Uso.pdf)
+* [DOC-PM-001 Plan de Proyecto](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-PM-001%20Plan%20de%20Proyecto.pdf)
+* [DOC-RSK-001 Registro de Riesgos](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-RSK-001%20Registro%20de%20Riesgos.pdf)
+* [DOC-CFG-001 Plan de Gestión de Configuración](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-CFG-001%20Plan%20de%20Gestión%20de%20Configuración.pdf)
+* [DOC-CMP-001 Matriz de Cumplimiento](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-CMP-001%20Matriz%20de%20Cumplimiento.pdf)
 ### 🚀 Fase 2: Inicio y Requisitos
 * [DOC-COM-001 Minuta de Reunión](./docs/DOC-COM-001.pdf)
 * [DOC-REQ-001 Análisis de Prefactibilidad](./docs/DOC-REQ-001.pdf)
