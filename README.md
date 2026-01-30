@@ -2,6 +2,9 @@
   <img src="./assets/Picture1.png" alt="CSJ Software Develop Logo" width="100%">
 </p>
 
+# MANUAL DE GESTIÓN DEL CICLO DE VIDA DE SOFTWARE
+**Dossier de Ingeniería - CSJ Software Develop**
+
 ## 📑 Tabla de Contenido
 1. [Introducción y Propósito](#1-introducción-y-propósito)
 2. [Alcance del Manual](#2-alcance-del-manual)
@@ -24,11 +27,6 @@
 12. [Matriz de Comunicación](#12-matriz-de-comunicación-del-proyecto)
 
 ---
-
----
-
-# MANUAL DE GESTIÓN DEL CICLO DE VIDA DE SOFTWARE
-**Dossier de Ingeniería - CSJ Software Develop**
 
 | Propiedad | Detalle |
 | :--- | :--- |
