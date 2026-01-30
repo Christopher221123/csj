@@ -1,3 +1,32 @@
+<p align="center">
+  <img src="./assets/Picture1.png" alt="CSJ Software Develop Logo" width="100%">
+</p>
+
+## 📑 Tabla de Contenido
+1. [Introducción y Propósito](#1-introducción-y-propósito)
+2. [Alcance del Manual](#2-alcance-del-manual)
+3. [Principios Rectores](#3-principios-rectores)
+4. [Modelo de Gobernanza Documental](#4-modelo-de-gobernanza-documental)
+   * [4.1 Identificación Única](#41-identificación-única)
+   * [4.2 Control de Cambios](#42-control-de-cambios)
+   * [4.3 Ciclo de Vida Documental](#43-ciclo-de-vida-documental)
+   * [4.4 Almacenamiento](#44-almacenamiento)
+5. [Modelo de Roles y Responsabilidades](#5-modelo-de-roles-y-responsabilidades)
+6. [Hoja de Ruta (Accesos a PDFs)](#6-hoja-de-ruta-del-ciclo-de-vida-índice-de-documentos)
+7. [Política de Calidad (ISO 25010)](#7-política-corporativa-de-calidad-iso-25010)
+8. [Estándar Corporativo de Requisitos Funcionales (RF)](#8-estándar-corporativo-de-requisitos-funcionales-rf)
+   * [8.1 Estructura Obligatoria](#81-estructura-obligatoria)
+   * [8.2 Reglas de Calidad](#82-reglas-de-calidad-para-rf)
+   * [8.3 Relación con otros Artefactos](#83-relación-con-otros-artefactos)
+9. [Política de Cumplimiento](#9-política-de-cumplimiento-normativo)
+10. [Mejora Continua](#10-política-de-mejora-continua)
+11. [Métricas (KPIs)](#11-métricas-de-desempeño-kpis)
+12. [Matriz de Comunicación](#12-matriz-de-comunicación-del-proyecto)
+
+---
+
+---
+
 # MANUAL DE GESTIÓN DEL CICLO DE VIDA DE SOFTWARE
 **Dossier de Ingeniería - CSJ Software Develop**
 
@@ -66,15 +95,22 @@ Todos los documentos deben seguir el formato obligatorio: `DOC-[ÁREA]-[NUMERO]`
 * *Ejemplo:* `DOC-REQ-002`.
 
 ### 4.2 Control de Cambios
-Cada documento debe contener una tabla de historial que incluya: Versión, Autor, Revisor, Fecha y Descripción del cambio.
+Cada documento debe contener:
+* Tabla de historial que incluya versiónes
+* Autor
+* Revisor
+* Fecha
+* Descripción
 
 ### 4.3 Ciclo de Vida Documental
 El flujo de estado de los documentos es:
 `Borrador` → `Revisión` → `Aprobado` → `Vigente` → `Obsoleto`.
 
 ### 4.4 Almacenamiento
-* Repositorio centralizado con control de acceso.
-* Historial de versiones y respaldo periódico.
+* Repositorio centralizado
+* Control de acceso
+* Historial de versiones
+* Respaldo periódico
 
 ---
 
@@ -120,8 +156,8 @@ Acceso directo a la documentación generada en cada fase del proyecto. Haz clic 
 * [DOC-MOD-001 Especificación de Modelado UML](./docs/DOC-MOD-001.pdf)
 
 ### 💻 Fase 4: Construcción
-* [DOC-DEV-001 Estándares de Desarrollo](./docs/DOC-DEV-001.pdf)
-* [DOC-RPT-001 Informe de Avance](./docs/DOC-RPT-001.pdf)
+* [DOC-DEV-001 Estándares de Desarrollo y Codificación](./docs/DOC-DEV-001.pdf)
+* [DOC-RPT-001 Informe de Avance del Proyecto](./docs/DOC-RPT-001.pdf)
 * [DOC-CHG-001 Solicitud de Control de Cambio](./docs/DOC-CHG-001.pdf)
 
 ### 🛡️ Fase 5: Calidad
@@ -140,9 +176,14 @@ La calidad se gestiona mediante Requisitos No Funcionales (RNF) medibles bajo la
 
 ### Estructura de un RNF
 Todo requisito no funcional debe incluir los siguientes campos obligatorios:
-* **Identificación:** Código, Fecha, Autor, Estado.
-* **Clasificación:** Característica y Sub-característica.
-* **Validación:** Objetivo de Calidad, Criterio de Aceptación, Método de Verificación y Evidencia Esperada.
+
+![Plantilla de Requisito No Funcional](./assets/Picture2.png)
+
+| Grupo de Datos | Campos Incluidos |
+| :--- | :--- |
+| **Identificación** | Código, Fecha, Autor, Estado. |
+| **Clasificación** | Característica y Sub-característica (ISO 25010). |
+| **Validación** | Objetivo de Calidad, Criterio de Aceptación, Método de Verificación y Evidencia Esperada. |
 
 **Prioridades Organizacionales:**
 1.  Seguridad.
@@ -157,6 +198,8 @@ CSJ Software Develop adopta un estándar ampliado que supera el formato tradicio
 
 ### 8.1 Estructura Obligatoria
 Todo Requisito Funcional (RF) documentado en el SRS debe cumplir obligatoriamente con la siguiente estructura:
+
+![Plantilla de Requisito Funcional](./assets/Picture3.png)
 
 | Campo | Descripción |
 | :--- | :--- |
@@ -173,6 +216,15 @@ Todo Requisito Funcional (RF) documentado en el SRS debe cumplir obligatoriament
 2.  **Atomicidad:** No se permite mezclar múltiples acciones en un solo código de requerimiento.
 3.  **Trazabilidad:** Todo RF debe estar vinculado a un diseño (DOC-ARCH-001) y a un caso de prueba (DOC-TEST-002).
 
+### 8.3 Relación con otros Artefactos
+Para garantizar la integridad del sistema, cada Requisito Funcional debe:
+
+* Estar documentado en **DOC-REQ-002**.
+* Tener diseño asociado en **DOC-ARCH-001**.
+* Tener código asociado vía **PR (Pull Request)**.
+* Tener casos de prueba en **DOC-TEST-002**.
+* Estar trazado en **DOC-TRZ-001**.
+
 ---
 
 ## 9. Política de Cumplimiento Normativo
@@ -181,7 +233,6 @@ Todo proyecto debe demostrar cumplimiento con las normas establecidas. **El incu
 * **Evidencia ISO 12207:** Ver DOC-CMP-001.
 * **Evidencia ISO 25010:** Ver Pruebas de RNF.
 * **Evidencia ISO 29148:** Ver SRS (DOC-REQ-002).
-
 ---
 
 ## 10. Política de Mejora Continua
