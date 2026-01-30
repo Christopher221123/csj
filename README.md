@@ -135,31 +135,32 @@ Definición de la estructura organizativa y responsabilidades técnicas dentro d
 Acceso directo a la documentación generada en cada fase del proyecto. Haz clic en los enlaces para visualizar los archivos PDF correspondientes dentro del repositorio.
 
 ### 📅 Fase 1: Gestión y Planificación
-* [DOC-MST-001 Manual de Gestión del Ciclo de Vida](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-MST-001%20Manual%20de%20Gestión%20del%20Ciclo%20de%20Vida%20de%20Software.pdf)
-* [DOC-AGT-001 Contrato Marco](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-AGT-001%20Contrato%20Marco.pdf)
-* [DOC-MAN-001 Guía de Uso](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-MAN-001%20Guia%20de%20Uso.pdf)
-* [DOC-PM-001 Plan de Proyecto](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-PM-001%20Plan%20de%20Proyecto.pdf)
-* [DOC-RSK-001 Registro de Riesgos](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-RSK-001%20Registro%20de%20Riesgos.pdf)
-* [DOC-CFG-001 Plan de Gestión de Configuración](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-CFG-001%20Plan%20de%20Gestión%20de%20Configuración.pdf)
-* [DOC-CMP-001 Matriz de Cumplimiento](./docs/Fase%201%20-%20(Gestión%20y%20Planificación)/DOC-CMP-001%20Matriz%20de%20Cumplimiento.pdf)
+* [DOC-MST-001 Manual de Gestión del Ciclo de Vida](./docs/Fase%201%20-%20%28Gestión%20y%20Planificación%29/DOC-MST-001%20Manual%20de%20Gestión%20del%20Ciclo%20de%20Vida%20de%20Software.pdf)
+* [DOC-AGT-001 Contrato Marco](./docs/Fase%201%20-%20%28Gestión%20y%20Planificación%29/DOC-AGT-001%20Contrato%20Marco.pdf)
+* [DOC-MAN-001 Guía de Uso](./docs/Fase%201%20-%20%28Gestión%20y%20Planificación%29/DOC-MAN-001%20Guia%20de%20Uso.pdf)
+* [DOC-PM-001 Plan de Proyecto](./docs/Fase%201%20-%20%28Gestión%20y%20Planificación%29/DOC-PM-001%20Plan%20de%20Proyecto.pdf)
+* [DOC-RSK-001 Registro de Riesgos](./docs/Fase%201%20-%20%28Gestión%20y%20Planificación%29/DOC-RSK-001%20Registro%20de%20Riesgos.pdf)
+* [DOC-CFG-001 Plan de Gestión de Configuración](./docs/Fase%201%20-%20%28Gestión%20y%20Planificación%29/DOC-CFG-001%20Plan%20de%20Gestión%20de%20Configuración.pdf)
+* [DOC-CMP-001 Matriz de Cumplimiento](./docs/Fase%201%20-%20%28Gestión%20y%20Planificación%29/DOC-CMP-001%20Matriz%20de%20Cumplimiento.pdf)
+
 ### 🚀 Fase 2: Inicio y Requisitos
-* [DOC-COM-001 Minuta de Reunión](./docs/DOC-COM-001.pdf)
-* [DOC-REQ-001 Análisis de Prefactibilidad](./docs/DOC-REQ-001.pdf)
-* [DOC-REQ-002 Especificación de Requisitos (SRS)](./docs/DOC-REQ-002.pdf)
-* [DOC-TRZ-001 Matriz de Trazabilidad](./docs/DOC-TRZ-001.pdf)
+* [DOC-COM-001 Minuta de Reunión](./docs/Fase%202%20-%20%28Inicio%20y%20Requisitos%29/DOC-COM-001%20Minuta%20de%20Reunion.pdf)
+* [DOC-REQ-001 Análisis de Prefactibilidad](./docs/Fase%202%20-%20%28Inicio%20y%20Requisitos%29/DOC-REQ-001%20Analisis%20de%20Prefactibilidad.pdf)
+* [DOC-REQ-002 Especificación de Requisitos (SRS)](./docs/Fase%202%20-%20%28Inicio%20y%20Requisitos%29/DOC-REQ-002%20SRS.pdf)
+* [DOC-TRZ-001 Matriz de Trazabilidad](./docs/Fase%202%20-%20%28Inicio%20y%20Requisitos%29/DOC-TRZ-001%20Trazabilidad.pdf)
 
 ### 📐 Fase 3: Diseño
-* [DOC-ARCH-001 Arquitectura de Software](./docs/DOC-ARCH-001.pdf)
-* [DOC-DB-001 Diseño de Base de Datos](./docs/DOC-DB-001.pdf)
-* [DOC-MOD-001 Especificación de Modelado UML](./docs/DOC-MOD-001.pdf)
+* [DOC-ARCH-001 Arquitectura de Software](./docs/Fase%203%20-%20%28Diseño%29/DOC-ARCH-001%20Arquitectura%20de%20Software.pdf)
+* [DOC-DB-001 Diseño de Base de Datos](./docs/Fase%203%20-%20%28Diseño%29/DOC-DB-001%20Diseño%20Base%20Datos.pdf)
+* [DOC-MOD-001 Especificación de Modelado UML](./docs/Fase%203%20-%20%28Diseño%29/DOC-MOD-001%20Especificacion%20UML.pdf)
 
 ### 💻 Fase 4: Construcción
-* [DOC-DEV-001 Estándares de Desarrollo y Codificación](./docs/DOC-DEV-001.pdf)
-* [DOC-RPT-001 Informe de Avance del Proyecto](./docs/DOC-RPT-001.pdf)
-* [DOC-CHG-001 Solicitud de Control de Cambio](./docs/DOC-CHG-001.pdf)
+* [DOC-CHG-001 Solicitud de Control de Cambio](./docs/Fase%204%20-%20%28Construcción%29/DOC-CHG-001%20Solicitud%20de%20Cambio.pdf)
+* [DOC-DEV-001 Estándares de Desarrollo](./docs/Fase%204%20-%20%28Construcción%29/DOC-DEV-001%20–%20ESTÁNDARES%20DE%20DESARROLLO.pdf)
+* [DOC-RPT-001 Informe de Avance](./docs/Fase%204%20-%20%28Construcción%29/DOC-RPT-001%20Informe%20de%20Avance.pdf)
 
 ### 🛡️ Fase 5: Calidad
-* [DOC-TEST-002 Casos de Prueba](./docs/DOC-TEST-002.pdf)
+* [DOC-TEST-002 Casos de Prueba](./docs/Fase%205%20-%20%28Calidad%29/DOC-TEST-002%20Casos%20de%20Prueba.pdf)
 
 ### 📦 Fase 6: Despliegue
 * [DOC-REL-001 Release Notes](./docs/DOC-REL-001.pdf)
