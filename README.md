@@ -34,7 +34,7 @@
 | **Estado** | VIGENTE |
 | **Clasificación** | INTERNO |
 | **Fecha** | 28/01/2026 |
-| **Ubicación** | [POR DEFINIR] |
+| **Ubicación** | Repositorio de github CSJ |
 | **Responsable** | Juan Martín Charvet Andrade – Director de Tecnología |
 
 ---
