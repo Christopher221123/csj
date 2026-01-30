@@ -170,6 +170,13 @@ Acceso directo a la documentación generada en cada fase del proyecto. Haz clic 
 * [DOC-TEC-001 Manual Técnico y de Despliegue](./docs/Fase%206%20-%20%28Despliegue%29/DOC-TEC-001%20Manual%20Tecnico.pdf)
 * [DOC-USR-001 Manual de Usuario Final](./docs/Fase%206%20-%20%28Despliegue%29/DOC-USR-001%20Manual%20de%20Usuario.pdf)
 * [DOC-CLS-001 Acta de Cierre y Aceptación Final](./docs/Fase%206%20-%20%28Despliegue%29/DOC-CLS-001%20Acta%20de%20Cierre.pdf)
+
+### 🗺️ Visualización Gráfica del Ciclo de Vida
+Aquí esta el mapa completo de la ingeniería del proyecto:
+
+<p align="center">
+    <img src="./assets/WhatsApp%20Image%202026-01-30%20at%2012.21.00%20AM.jpg" alt="Roadmap" width="100%">
+</p>
 ---
 
 ## 7. Política Corporativa de Calidad (ISO 25010)
