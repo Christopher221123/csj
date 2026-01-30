@@ -134,6 +134,9 @@ Definición de la estructura organizativa y responsabilidades técnicas dentro d
 ## 6. Hoja de Ruta del Ciclo de Vida (Índice de Documentos)
 Acceso directo a la documentación generada en cada fase del proyecto. Haz clic en los enlaces para visualizar los archivos PDF correspondientes dentro del repositorio.
 
+## 6. Hoja de Ruta del Ciclo de Vida (Índice de Documentos)
+Acceso directo a la documentación generada en cada fase del proyecto. Haz clic en los enlaces para visualizar los archivos PDF.
+
 ### 📅 Fase 1: Gestión y Planificación
 * [DOC-MST-001 Manual de Gestión del Ciclo de Vida](./docs/Fase%201%20-%20%28Gestión%20y%20Planificación%29/DOC-MST-001%20Manual%20de%20Gestión%20del%20Ciclo%20de%20Vida%20de%20Software.pdf)
 * [DOC-AGT-001 Contrato Marco](./docs/Fase%201%20-%20%28Gestión%20y%20Planificación%29/DOC-AGT-001%20Contrato%20Marco.pdf)
@@ -163,11 +166,10 @@ Acceso directo a la documentación generada en cada fase del proyecto. Haz clic 
 * [DOC-TEST-002 Casos de Prueba](./docs/Fase%205%20-%20%28Calidad%29/DOC-TEST-002%20Casos%20de%20Prueba.pdf)
 
 ### 📦 Fase 6: Despliegue
-* [DOC-REL-001 Release Notes](./docs/DOC-REL-001.pdf)
-* [DOC-TEC-001 Manual Técnico y de Despliegue](./docs/DOC-TEC-001.pdf)
-* [DOC-USR-001 Manual de Usuario Final](./docs/DOC-USR-001.pdf)
-* [DOC-CLS-001 Acta de Cierre y Aceptación](./docs/DOC-CLS-001.pdf)
-
+* [DOC-REL-001 Release Notes](./docs/Fase%206%20-%20%28Despliegue%29/DOC-REL-001%20–%20NOTAS%20DE%20VERSIÓN.pdf)
+* [DOC-TEC-001 Manual Técnico y de Despliegue](./docs/Fase%206%20-%20%28Despliegue%29/DOC-TEC-001%20Manual%20Tecnico.pdf)
+* [DOC-USR-001 Manual de Usuario Final](./docs/Fase%206%20-%20%28Despliegue%29/DOC-USR-001%20Manual%20de%20Usuario.pdf)
+* [DOC-CLS-001 Acta de Cierre y Aceptación Final](./docs/Fase%206%20-%20%28Despliegue%29/DOC-CLS-001%20Acta%20de%20Cierre.pdf)
 ---
 
 ## 7. Política Corporativa de Calidad (ISO 25010)
